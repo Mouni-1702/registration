@@ -1,0 +1,27 @@
+label{
+    display:block;
+    padding: 10px;
+
+}
+form{
+    margin: 0px 400px 0px 400px;
+    border-radius: 60px;
+    background-color:aqua;
+    text-align: center;
+}
+input[type=submit]{
+    
+    color: aliceblue;
+    background-color: green;
+    border-radius: 30px;
+}
+input[type=submit]:hover{
+    background-color: red;
+}
+#submit{
+    padding:10px;
+    
+}
+body{
+    background-color: coral;
+}
